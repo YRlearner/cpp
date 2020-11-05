@@ -20,3 +20,24 @@ while( p>=i)
 cout<<n<<"**"<<p<<"="<<s;
             return 0;
 }
+/*
+#include<iostream>
+#include<string>
+
+using namespace std ;
+
+int main()
+{
+    int n,p,s=1;
+    cout<<"hello human,insert number for calcul \n";
+    cin>>n;
+    cout<<"insert power\n ";
+    cin>>p;
+    for(int i=1;i<=p;i++){
+        s*=n;
+
+
+
+    }
+      cout << s<<endl;
+*/
